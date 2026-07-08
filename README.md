@@ -43,5 +43,5 @@ I'm a Full-Stack Developer based in Mombasa, Kenya. I specialize in building hig
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mike336-cloud&show_icons=true&theme=radium&hide_border=true" alt="Mike's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mike336-cloud&theme=radium&hide_border=true" alt="Mike's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mike336-cloud&layout=compact&theme=radium&hide_border=true" alt="Mike's Top Languages" />
 </div>
